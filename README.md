@@ -14,4 +14,8 @@ The detailed project description are here: [Project details](project_details.md)
 
 <img src="https://github.com/NalaliiaPV/Visualization-Webinar-funnel/blob/main/Dash_for_Mitia_DC_blurred.jpg" width="400">
 
-## Project 2. Solution of exercises from the portal Sql-ex.ru (training stage)
+## [Project 2. Sql-ex.ru solutions](https://github.com/NalaliiaPV/Sql-ex.ru_Solutions/blob/main/README.md)
+
+My solution of exercises from the portal Sql-ex.ru (training stage)
+
+**Year:** 2023
