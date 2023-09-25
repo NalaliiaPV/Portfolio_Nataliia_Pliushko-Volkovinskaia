@@ -3,7 +3,7 @@
 
 This is a data visualization project for one of the companies (data blurred).
 
-The detailed project description are here: [Project details](project_details.md)
+The detailed project description are here: [Project details](https://github.com/NalaliiaPV/Visualization-Webinar-funnel/blob/main/project_details.md)
 
 - **Year:** 2022-2023 (several iterations)
 - **Stakeholders:** CMO, CEO.
