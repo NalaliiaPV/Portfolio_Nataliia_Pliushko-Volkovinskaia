@@ -18,4 +18,6 @@ The detailed project description are here: [Project details](project_details.md)
 
 My solution of exercises from the portal Sql-ex.ru (training stage)
 
+SQL queries are here: [link](https://github.com/NalaliiaPV/Sql-ex.ru_Solutions/blob/main/README.md)
+
 **Year:** 2023
