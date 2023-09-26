@@ -16,7 +16,7 @@ The detailed project description are here: [Project details](https://github.com/
 
 ## [Project 2. Sql-ex.ru solutions](https://github.com/NalaliiaPV/Sql-ex.ru_Solutions/blob/main/README.md)
 
-My solution of exercises from the portal Sql-ex.ru (training stage)
+My solution of exercises from the portal Sql-ex.ru
 
 SQL queries are here: [link](https://github.com/NalaliiaPV/Sql-ex.ru_Solutions/blob/main/README.md)
 
